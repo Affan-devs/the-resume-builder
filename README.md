@@ -29,4 +29,6 @@ A web-based application that allows users to create professional resumes easily 
 - **HTML5** – Structuring the layout of the application.
 - **CSS3** – Styling the components and templates.
 - **JavaScript/TypeScript** – Adding functionality to the application.
+## watch live
+ https://affan-devs.github.io/the-resume-builder/
 
