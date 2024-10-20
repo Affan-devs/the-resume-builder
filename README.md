@@ -15,39 +15,6 @@ A web-based application that allows users to create professional resumes easily 
 - **Editable Sections:** Personal information, education, experience, skills, and more.
 - **Data Persistence:** Save your resume for future edits.
 
-## Screenshots
-
-![Screenshot 1](path_to_screenshot_1)
-![Screenshot 2](path_to_screenshot_2)
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/resume-builder.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd resume-builder
-   ```
-
-3. **Install dependencies:**
-   If you are using Node.js for this project:
-   ```bash
-   npm install
-   ```
-
-4. **Run the application locally:**
-   ```bash
-   npm start
-   ```
-   The app will be available at `http://localhost:3000`.
-
-5. **Build for production:**
-   ```bash
-   npm run build
-   ```
 
 ## Usage
 
